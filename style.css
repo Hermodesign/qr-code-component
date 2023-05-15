@@ -57,7 +57,7 @@ h1 {
     padding: .625rem 1.688rem;
 }
 
-.desc {
+p {
     font-weight: 400;
     font-size: .9375rem;
     color: hsl(220, 15%, 55%);
